@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"input",
+				"input-box_text"
+			],
+			[
+				"ana",
+				"anagramPosition"
+			],
+			[
+				"bottles",
+				"bottlesVerse"
+			],
+			[
+				"proto",
+				"prototype (?)"
+			],
+			[
+				"string",
+				"string2 (?)"
+			],
+			[
+				"remov",
+				"removePlayerData"
+			],
+			[
+				"seleec",
+				"selectedPlayer"
+			],
+			[
+				"selec",
+				"selectedPlayer"
+			],
+			[
+				"sele",
+				"selectedPlayer"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"se",
+				"selectedPlayer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Tern",
+				"TernJS: Reload"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hcdevid/Documents/Meteor/markdownEditorTest"
+	],
+	"file_history":
+	[
+		"/home/hcdevid/Documents/Meteor/chatapp/client/global.css",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/components/channel.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/server/seeder.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/components/footer.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/app.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/room.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/README.md",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/components/message.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/components/header.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/lib/collections/channels.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/routes.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/components/head.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/lib/collections/users.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/lib/collections/messages.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/input.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/stubs.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/server/methods.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/server/publications.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/components/listings.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/messages.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/server/mail.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/server/accounts.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/message.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/server/allowdeny.js",
+		"/home/hcdevid/Documents/Meteor/chatapp/collections/messages.js",
+		"/home/hcdevid/.config/sublime-text-3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/helpers.js",
+		"/home/hcdevid/exercism/javascript/beer-song/beer-song.spec.js",
+		"/home/hcdevid/exercism/javascript/phone-number/phone-number.spec.js",
+		"/home/hcdevid/exercism/javascript/anagram/anagram.spec.js",
+		"/home/hcdevid/exercism/javascript/beer-song/beer-song.js",
+		"/home/hcdevid/exercism/javascript/phone-number/phone-number.js",
+		"/home/hcdevid/exercism/javascript/anagram/anagram.js",
+		"/home/hcdevid/exercism/javascript/pangram/pangram.spec.js",
+		"/home/hcdevid/exercism/javascript/pangram/pangram.js",
+		"/home/hcdevid/exercism/javascript/word-count/word-count.spec.js",
+		"/home/hcdevid/exercism/javascript/word-count/word-count.js",
+		"/home/hcdevid/exercism/javascript/leap/leap.spec.js",
+		"/home/hcdevid/exercism/javascript/leap/leap.js",
+		"/home/hcdevid/exercism/javascript/gigasecond/gigasecond.spec.js",
+		"/home/hcdevid/exercism/javascript/gigasecond/gigasecond.js",
+		"/home/hcdevid/exercism/javascript/rna-transcription/rna-transcription.spec.js",
+		"/home/hcdevid/exercism/javascript/bob/bob.spec.js",
+		"/home/hcdevid/exercism/javascript/rna-transcription/rna-transcription.js",
+		"/home/hcdevid/exercism/javascript/bob/bob.js",
+		"/home/hcdevid/exercism/javascript/hamming/hamming.spec.js",
+		"/home/hcdevid/exercism/javascript/hamming/hamming.js",
+		"/home/hcdevid/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/hcdevid/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/hcdevid/exercism/README.md",
+		"/home/hcdevid/exercism/javascript/hello-world/README.md",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/footer.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/listings.html",
+		"/home/hcdevid/Documents/Meteor/chatapp/client/header.html",
+		"/home/hcdevid/Documents/Meteor/slack/client/global.css",
+		"/home/hcdevid/Documents/Meteor/slack/client/room.html",
+		"/home/hcdevid/Documents/Meteor/slack/README.md",
+		"/home/hcdevid/Documents/Meteor/slack/slack.js",
+		"/home/hcdevid/Documents/FirstMeteorApp/leaderboard/leaderboard.html",
+		"/home/hcdevid/Documents/FirstMeteorApp/leaderboard/leaderboard.css",
+		"/home/hcdevid/Documents/FirstMeteorApp/leaderboard/README.md",
+		"/home/hcdevid/Documents/FirstMeteorApp/leaderboard/leaderboard.js",
+		"/home/hcdevid/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/hcdevid/.config/sublime-text-3/Packages/TernJS/TernJS.sublime-settings",
+		"/home/hcdevid/.config/sublime-text-3/Packages/User/TernJS.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"usernameFromId",
+			"userId",
+			"channel_name",
+			"counts",
+			"xit",
+			"final",
+			"this.y",
+			"this.x",
+			"favicon",
+			".",
+			"selectedPlayer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.counts",
+			"it",
+			"seq2",
+			"seq1",
+			"selectedClass"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "markdownEditorTest.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
